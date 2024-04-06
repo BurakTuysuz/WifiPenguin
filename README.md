@@ -5,6 +5,8 @@
 
 WifiPenguin provides faster internet by turning off Wi-Fi Power Saving
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ## Installation
 Python and Git must be installed
 
