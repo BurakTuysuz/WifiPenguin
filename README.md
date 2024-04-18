@@ -22,7 +22,7 @@ sudo apt install python3 -y
 ```
 
 ```bash
-gitclone https://github.com/BurakTuysuz/WifiPenguin.git
+git clone https://github.com/BurakTuysuz/WifiPenguin.git
 ```
 
 ## Usage
