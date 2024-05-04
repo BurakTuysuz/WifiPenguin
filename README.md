@@ -9,13 +9,6 @@ WifiPenguin provides faster internet by turning off Wi-Fi Power Saving
 
 ## Installation
 
-```bash
-sudo apt update -y
-```
-
-```bash
-sudo apt install git -y
-```
 
 ```bash
 sudo apt install python3 -y
@@ -32,7 +25,7 @@ Go to the folder where the program is installed and start the program with Pytho
 For Example
 
 ```bash
-cd Downloads
+cd WifiPenguin
 ```
 
 ```bash
