@@ -22,8 +22,6 @@ git clone https://github.com/BurakTuysuz/WifiPenguin.git
 
 Go to the folder where the program is installed and start the program with Python3 using sudo
 
-For Example
-
 ```bash
 cd WifiPenguin
 ```
