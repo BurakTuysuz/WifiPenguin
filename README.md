@@ -1,6 +1,6 @@
 # Wifi Penguin
 
-![Logo](wifi-penguin/wifilogo.png)
+![Logo](wifilogo.png)
 
 
 WifiPenguin provides faster internet by turning off Wi-Fi Power Saving
@@ -26,10 +26,6 @@ For Example
 
 ```bash
 cd WifiPenguin
-```
-
-```bash
-cd wifi-penguin
 ```
 
 ```bash
